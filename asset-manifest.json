@@ -1,14 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.778eeed7.css",
-    "main.js": "/static/js/main.4bbfbb86.js",
+    "main.js": "/static/js/main.af3ee573.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/MBL_Born_poster.pdf": "/static/media/MBL_Born_poster.f66214245b88c1786def.pdf",
     "static/media/Disco_2022_neurips.png": "/static/media/Disco_2022_neurips.0dde0e700378091a1ca7.png",
     "static/media/weishunzhong.JPG": "/static/media/weishunzhong.8f21efb93f173e67e107.JPG",
     "static/media/MBL.png": "/static/media/MBL.6de083d2ed612340d362.png",
-    "static/media/QNN.png": "/static/media/QNN.e24d6d74fc1ac096328f.png",
-    "static/media/quantum.png": "/static/media/quantum.3b138a187fd309d47041.png",
     "static/media/quenched.png": "/static/media/quenched.1d271d649a1205b24241.png",
     "static/media/resume.pdf": "/static/media/resume.4459dff843e433351265.pdf",
     "static/media/disco.png": "/static/media/disco.0931631db6bc4a1e0978.png",
@@ -17,11 +15,11 @@
     "static/media/Harvard_small.png": "/static/media/Harvard_small.16a124735dc82c7206ba.png",
     "index.html": "/index.html",
     "main.778eeed7.css.map": "/static/css/main.778eeed7.css.map",
-    "main.4bbfbb86.js.map": "/static/js/main.4bbfbb86.js.map",
+    "main.af3ee573.js.map": "/static/js/main.af3ee573.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.4bbfbb86.js"
+    "static/js/main.af3ee573.js"
   ]
 }
