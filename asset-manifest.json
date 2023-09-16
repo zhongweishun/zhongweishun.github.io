@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.3543bd7a.css",
-    "main.js": "/static/js/main.bc22d457.js",
+    "main.js": "/static/js/main.883be3f8.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/MBL_Born_poster.pdf": "/static/media/MBL_Born_poster.f66214245b88c1786def.pdf",
     "static/media/Disco_2022_neurips.png": "/static/media/Disco_2022_neurips.0dde0e700378091a1ca7.png",
-    "static/media/defense.png": "/static/media/defense.ed07d65e2dca78f63966.png",
     "static/media/weishunzhong.JPG": "/static/media/weishunzhong.8f21efb93f173e67e107.JPG",
     "static/media/MBL.png": "/static/media/MBL.6de083d2ed612340d362.png",
     "static/media/quenched.png": "/static/media/quenched.8daf917b2574b514a897.png",
@@ -16,11 +15,11 @@
     "static/media/Harvard_small.png": "/static/media/Harvard_small.16a124735dc82c7206ba.png",
     "index.html": "/index.html",
     "main.3543bd7a.css.map": "/static/css/main.3543bd7a.css.map",
-    "main.bc22d457.js.map": "/static/js/main.bc22d457.js.map",
+    "main.883be3f8.js.map": "/static/js/main.883be3f8.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3543bd7a.css",
-    "static/js/main.bc22d457.js"
+    "static/js/main.883be3f8.js"
   ]
 }
