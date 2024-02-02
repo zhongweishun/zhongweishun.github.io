@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.daf13d5e.css",
-    "main.js": "/static/js/main.a1f22eac.js",
+    "main.css": "/static/css/main.d72f79df.css",
+    "main.js": "/static/js/main.621aa603.js",
     "static/js/787.6971d1b3.chunk.js": "/static/js/787.6971d1b3.chunk.js",
     "static/media/weishunzhong.JPG": "/static/media/weishunzhong.8f21efb93f173e67e107.JPG",
     "static/media/Disco_2022_neurips.png": "/static/media/Disco_2022_neurips.04a6dd0bcb5954296260.png",
@@ -15,12 +15,12 @@
     "static/media/chicago_small.png": "/static/media/chicago_small.64f389399d39e0ec2ffe.png",
     "static/media/Harvard_small.png": "/static/media/Harvard_small.16a124735dc82c7206ba.png",
     "index.html": "/index.html",
-    "main.daf13d5e.css.map": "/static/css/main.daf13d5e.css.map",
-    "main.a1f22eac.js.map": "/static/js/main.a1f22eac.js.map",
+    "main.d72f79df.css.map": "/static/css/main.d72f79df.css.map",
+    "main.621aa603.js.map": "/static/js/main.621aa603.js.map",
     "787.6971d1b3.chunk.js.map": "/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.daf13d5e.css",
-    "static/js/main.a1f22eac.js"
+    "static/css/main.d72f79df.css",
+    "static/js/main.621aa603.js"
   ]
 }
