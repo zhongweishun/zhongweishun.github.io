@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.d72f79df.css",
-    "main.js": "/static/js/main.8aee02ca.js",
+    "main.js": "/static/js/main.34ee924c.js",
     "static/js/787.6971d1b3.chunk.js": "/static/js/787.6971d1b3.chunk.js",
     "static/media/Weishun_IAS.jpg": "/static/media/Weishun_IAS.23cff5ccae41f509dc77.jpg",
     "static/media/Disco_2022_neurips.png": "/static/media/Disco_2022_neurips.04a6dd0bcb5954296260.png",
     "static/media/MBL_Born_poster.png": "/static/media/MBL_Born_poster.1760d07a869df2b57011.png",
     "static/media/MBL.png": "/static/media/MBL.6de083d2ed612340d362.png",
-    "static/media/quenched.png": "/static/media/quenched.36c84330496589492a30.png",
-    "static/media/resume.pdf": "/static/media/resume.d397a1e457715a12c48d.pdf",
+    "static/media/resume.pdf": "/static/media/resume.4e1be71046076669f19e.pdf",
+    "static/media/quenched.png": "/static/media/quenched.e50d4e7ff91f0fcfdb98.png",
     "static/media/QNN.png": "/static/media/QNN.e1770ae545217979c0d2.png",
+    "static/media/HWM.png": "/static/media/HWM.fdd9346321b1b3acbcc3.png",
     "static/media/disco.png": "/static/media/disco.0931631db6bc4a1e0978.png",
     "static/media/spin_glass.png": "/static/media/spin_glass.978ac65d8340f5415a1b.png",
     "static/media/chicago_small.png": "/static/media/chicago_small.64f389399d39e0ec2ffe.png",
     "static/media/Harvard_small.png": "/static/media/Harvard_small.16a124735dc82c7206ba.png",
     "index.html": "/index.html",
     "main.d72f79df.css.map": "/static/css/main.d72f79df.css.map",
-    "main.8aee02ca.js.map": "/static/js/main.8aee02ca.js.map",
+    "main.34ee924c.js.map": "/static/js/main.34ee924c.js.map",
     "787.6971d1b3.chunk.js.map": "/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d72f79df.css",
-    "static/js/main.8aee02ca.js"
+    "static/js/main.34ee924c.js"
   ]
 }
